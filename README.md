@@ -1,4 +1,5 @@
-COVID-19 DASHBOARD
+# COVID-19 DASHBOARD
+
 Introduction
 
 Welcome to the COVID-19 Dashboard project! This project aims to provide a visual representation of COVID-19 data using Python libraries such as Pandas, Plotly, and Dash. With this dashboard, users can explore and analyze COVID-19 statistics in an interactive and user-friendly way.
